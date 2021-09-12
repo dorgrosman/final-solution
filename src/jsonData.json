@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "_id": 11111,
+            "title": "Toshiba TV",
+            "price": 299,
+            "description": "Smart TV. From the latest movies and trending music to your favourite boxsets, your Toshiba TV has got it all. ... Plus, with our Android and Toshiba Connect ranges you can explore more, whether you want to check the weather, search recipes or play your favourite music. Simply choose between Google Assistant or Alexa.",
+            "imgUrl": "https://www.zabilo.com/5042/toshiba-tv-40s2550-40-full-hd.jpg"
+        },
+        {
+            "_id": 12222,
+            "title": "Sony Playstation 5",
+            "price": 429.0,
+            "description": "Hardware. The PlayStation 5 is powered by a custom system on a chip SoC designed in tandem by AMD and Sony, integrating a custom 7 nm AMD Zen 2 CPU with eight cores running at a variable frequency capped at 3.5 GHz. The integrated GPU is also a custom unit based on",
+            "imgUrl": "https://konimboimages.s3.amazonaws.com/system/photos/3643736/large/467c13c623fd71e1ce1063093c80dd2d.jpg"
+        },
+        {
+            "_id": 35566,
+            "title": "Apple Iphone 11",
+            "price": 399,
+            "description": "Apple Inc.The iPhone is a line of smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system. The first-generation iPhone was announced by former Apple CEO Steve Jobs on January 9, 2007. Since then, Apple has annually released new iPhone models and iOS updates.",
+            "imgUrl": "https://www.istoreil.co.il/media/catalog/product/cache/1/image/1000x/0dc2d03fe217f8c83829496872af24a0/i/p/iphone_11_black_hero_rosette_vertical_us-en_screen.jpg"
+        }
+    ]
+}

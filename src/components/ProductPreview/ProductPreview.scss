@@ -1,0 +1,43 @@
+.card {
+    border: 1px solid;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    .toggle-fav {
+        cursor: pointer;
+        margin-bottom: 0;
+        width: 20%;
+    }
+
+    .product-preview {
+        height: 100%;
+        margin-top: 0px;
+        padding: 10px;
+        .title-price {
+            width: 20%;
+            padding-right: 10px;
+        }
+        .title {
+            font-weight: bold;
+
+            margin-top: 0px;
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+        img {
+            width: 100px;
+            height: 100px;
+            margin-bottom: 16px;
+            margin-right: 20px;
+        }
+        .dis {
+            width: 50%;
+        }
+        button{
+            margin-left: 15px;
+        }
+    }
+}
+.card:active {
+    background-color: rgb(96, 98, 100);
+}
